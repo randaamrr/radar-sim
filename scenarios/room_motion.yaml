@@ -1,0 +1,48 @@
+seed: 42
+fps: 20
+room:
+  size_m: [4.0, 3.0, 2.7]
+  grid_step_m: 0.1
+surfaces:
+  walls: concrete
+  floor: concrete
+  ceiling: concrete
+furniture:
+  - name: bed
+    pos_m: [0.1, 0.1]
+    size_m: [2.0, 1.4, 0.5]
+    material: wood
+  - name: wardrobe
+    pos_m: [3.4, 0.1]
+    size_m: [0.5, 1.2, 2.0]
+    material: wood
+  - name: table
+    pos_m: [2.0, 2.0]
+    size_m: [1.0, 0.6, 0.75]
+    material: wood
+people:
+  # sits down onto the bed edge (seat height = bed top), legs hang over the side
+  - name: p_sit
+    pose: stand
+    height_m: 1.7
+    pos_m: [2.3, 0.8]
+    yaw_deg: 0
+    support_z: 0.0
+    motion: {kind: sit, seat_z: 0.5, back_m: 0.25, duration: 2.4}
+  # falls forward in the free corridor between the bed and the table
+  - name: p_fall
+    pose: stand
+    height_m: 1.7
+    pos_m: [2.2, 1.75]
+    yaw_deg: 0
+    support_z: 0.0
+    motion: {kind: fall, direction_deg: 0, duration: 0.8, pre_s: 1.0, rest_s: 2.0}
+radars:
+  - name: radar_west
+    pos_m: [0.0, 1.5, 2.2]
+    yaw_deg: 0
+    pitch_deg: -20
+  - name: radar_east
+    pos_m: [4.0, 1.5, 2.2]
+    yaw_deg: 180
+    pitch_deg: -20

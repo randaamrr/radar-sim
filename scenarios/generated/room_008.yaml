@@ -1,0 +1,72 @@
+seed: 8
+room:
+  size_m:
+  - 4.0
+  - 5.0
+  - 2.7
+  grid_step_m: 0.1
+surfaces:
+  walls: plasterboard
+  floor: wood
+  ceiling: plasterboard
+furniture:
+- name: bed_0
+  pos_m:
+  - 0.67
+  - 0.81
+  size_m:
+  - 1.35
+  - 1.96
+  - 0.44
+  material: wood
+- name: wardrobe_1
+  pos_m:
+  - 1.73
+  - 4.11
+  size_m:
+  - 1.31
+  - 0.45
+  - 1.95
+  material: wood
+- name: sofa_2
+  pos_m:
+  - 2.7
+  - 0.21
+  size_m:
+  - 0.84
+  - 1.83
+  - 0.68
+  material: wood
+- name: wardrobe_3
+  pos_m:
+  - 1.37
+  - 3.29
+  size_m:
+  - 1.28
+  - 0.57
+  - 2.29
+  material: wood
+- name: table_4
+  pos_m:
+  - 3.28
+  - 2.48
+  size_m:
+  - 0.59
+  - 0.94
+  - 0.7
+  material: glass
+radars:
+- name: radar_west
+  pos_m:
+  - 0.0
+  - 2.5
+  - 2.2
+  yaw_deg: 0
+  pitch_deg: -20
+- name: radar_east
+  pos_m:
+  - 4.0
+  - 2.5
+  - 2.2
+  yaw_deg: 180
+  pitch_deg: -20

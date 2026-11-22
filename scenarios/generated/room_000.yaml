@@ -1,0 +1,72 @@
+seed: 0
+room:
+  size_m:
+  - 4.9
+  - 3.2
+  - 2.5
+  grid_step_m: 0.1
+surfaces:
+  walls: concrete
+  floor: concrete
+  ceiling: concrete
+furniture:
+- name: desk_0
+  pos_m:
+  - 2.95
+  - 0.06
+  size_m:
+  - 1.24
+  - 0.64
+  - 0.76
+  material: metal
+- name: table_1
+  pos_m:
+  - 1.72
+  - 0.12
+  size_m:
+  - 0.86
+  - 0.64
+  - 0.68
+  material: glass
+- name: bed_2
+  pos_m:
+  - 3.38
+  - 1.03
+  size_m:
+  - 1.46
+  - 2.1
+  - 0.52
+  material: wood
+- name: table_3
+  pos_m:
+  - 1.34
+  - 1.05
+  size_m:
+  - 0.63
+  - 1.05
+  - 0.73
+  material: glass
+- name: shelf_4
+  pos_m:
+  - 1.55
+  - 2.41
+  size_m:
+  - 0.96
+  - 0.45
+  - 1.84
+  material: metal
+radars:
+- name: radar_west
+  pos_m:
+  - 0.0
+  - 1.6
+  - 2.2
+  yaw_deg: 0
+  pitch_deg: -20
+- name: radar_east
+  pos_m:
+  - 4.9
+  - 1.6
+  - 2.2
+  yaw_deg: 180
+  pitch_deg: -20

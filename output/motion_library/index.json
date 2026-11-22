@@ -1,0 +1,1662 @@
+{
+ "joint_names": [
+  "pelvis",
+  "chest",
+  "neck",
+  "head",
+  "shoulder_l",
+  "shoulder_r",
+  "elbow_l",
+  "elbow_r",
+  "wrist_l",
+  "wrist_r",
+  "hip_l",
+  "hip_r",
+  "knee_l",
+  "knee_r",
+  "ankle_l",
+  "ankle_r"
+ ],
+ "items": [
+  {
+   "id": "walk_000",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    0
+   ],
+   "params": {
+    "height_m": 1.8208846169945871,
+    "breath_hz": 0.2570541971677668,
+    "breath_p2p_mm": 7.292989599556912,
+    "breath_phase": 4.381692553882582,
+    "speed": 0.9197929622692327,
+    "duration": 3.951244703273512
+   },
+   "fps": 20.0,
+   "n_frames": 80,
+   "duration_s": 3.95,
+   "file": "walk_000.npz"
+  },
+  {
+   "id": "walk_001",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    1
+   ],
+   "params": {
+    "height_m": 1.8531280595652873,
+    "breath_hz": 0.3146202228372381,
+    "breath_p2p_mm": 5.2997947736910795,
+    "breath_phase": 5.725758263613845,
+    "speed": 1.2301568555817997,
+    "duration": 2.4224939966466765
+   },
+   "fps": 20.0,
+   "n_frames": 49,
+   "duration_s": 2.4,
+   "file": "walk_001.npz"
+  },
+  {
+   "id": "walk_002",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    2
+   ],
+   "params": {
+    "height_m": 1.8877750588899143,
+    "breath_hz": 0.32084768716528145,
+    "breath_p2p_mm": 6.848304319714277,
+    "breath_phase": 0.5459013442144083,
+    "speed": 1.4777701990543064,
+    "duration": 2.85768857981682
+   },
+   "fps": 20.0,
+   "n_frames": 58,
+   "duration_s": 2.85,
+   "file": "walk_002.npz"
+  },
+  {
+   "id": "walk_003",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    3
+   ],
+   "params": {
+    "height_m": 1.7461323257740062,
+    "breath_hz": 0.29634819810335666,
+    "breath_p2p_mm": 5.5307949779837084,
+    "breath_phase": 4.009316434577408,
+    "speed": 1.084579702633536,
+    "duration": 2.7637920832049376
+   },
+   "fps": 20.0,
+   "n_frames": 56,
+   "duration_s": 2.75,
+   "file": "walk_003.npz"
+  },
+  {
+   "id": "walk_004",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    4
+   ],
+   "params": {
+    "height_m": 1.7100428287437865,
+    "breath_hz": 0.2836356528602532,
+    "breath_p2p_mm": 3.106489647209807,
+    "breath_phase": 2.3786326734885286,
+    "speed": 1.5168713098407047,
+    "duration": 2.790504369576404
+   },
+   "fps": 20.0,
+   "n_frames": 56,
+   "duration_s": 2.75,
+   "file": "walk_004.npz"
+  },
+  {
+   "id": "walk_005",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    5
+   ],
+   "params": {
+    "height_m": 1.8486454886981514,
+    "breath_hz": 0.2138039507406811,
+    "breath_p2p_mm": 7.609981691101755,
+    "breath_phase": 5.507714269990225,
+    "speed": 1.7160311794125716,
+    "duration": 3.434012761214467
+   },
+   "fps": 20.0,
+   "n_frames": 69,
+   "duration_s": 3.4,
+   "file": "walk_005.npz"
+  },
+  {
+   "id": "walk_006",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    6
+   ],
+   "params": {
+    "height_m": 1.5539387652665886,
+    "breath_hz": 0.20833127236453447,
+    "breath_p2p_mm": 4.952255638901807,
+    "breath_phase": 2.1400061599970606,
+    "speed": 1.2445665299940993,
+    "duration": 2.046284411236552
+   },
+   "fps": 20.0,
+   "n_frames": 41,
+   "duration_s": 2.0,
+   "file": "walk_006.npz"
+  },
+  {
+   "id": "walk_007",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    7
+   ],
+   "params": {
+    "height_m": 1.750650308655053,
+    "breath_hz": 0.21862984907465144,
+    "breath_p2p_mm": 3.2146582401115893,
+    "breath_phase": 0.03596699114362639,
+    "speed": 1.532496147411179,
+    "duration": 3.683427057312792
+   },
+   "fps": 20.0,
+   "n_frames": 74,
+   "duration_s": 3.65,
+   "file": "walk_007.npz"
+  },
+  {
+   "id": "walk_008",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    8
+   ],
+   "params": {
+    "height_m": 1.7064065670127724,
+    "breath_hz": 0.21145082798463768,
+    "breath_p2p_mm": 5.110500972262236,
+    "breath_phase": 4.358047469147077,
+    "speed": 1.266258883386244,
+    "duration": 2.107003979082349
+   },
+   "fps": 20.0,
+   "n_frames": 43,
+   "duration_s": 2.1,
+   "file": "walk_008.npz"
+  },
+  {
+   "id": "walk_009",
+   "kind": "walk",
+   "tags": [
+    "locomotion",
+    "periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    0,
+    9
+   ],
+   "params": {
+    "height_m": 1.6404170901996646,
+    "breath_hz": 0.30552411822815784,
+    "breath_p2p_mm": 7.2321032550835955,
+    "breath_phase": 1.380792834920874,
+    "speed": 1.4836474480655346,
+    "duration": 3.668658478849655
+   },
+   "fps": 20.0,
+   "n_frames": 74,
+   "duration_s": 3.65,
+   "file": "walk_009.npz"
+  },
+  {
+   "id": "sit_000",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    0
+   ],
+   "params": {
+    "height_m": 1.8277259405873005,
+    "breath_hz": 0.23197462545438266,
+    "breath_p2p_mm": 5.022131669707646,
+    "breath_phase": 3.975718057841653,
+    "duration": 2.9000928734196862,
+    "seat_z": 0.48661746580316245,
+    "back_m": 0.2653459599516856,
+    "lean_peak": 31.560447003045603
+   },
+   "fps": 20.0,
+   "n_frames": 59,
+   "duration_s": 2.9,
+   "file": "sit_000.npz"
+  },
+  {
+   "id": "sit_001",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    1
+   ],
+   "params": {
+    "height_m": 1.7544224635989991,
+    "breath_hz": 0.26915012734446486,
+    "breath_p2p_mm": 6.99183129262396,
+    "breath_phase": 2.8183005874460445,
+    "duration": 2.7194528275202585,
+    "seat_z": 0.5045738521474932,
+    "back_m": 0.1758136262245234,
+    "lean_peak": 32.02892131180941
+   },
+   "fps": 20.0,
+   "n_frames": 55,
+   "duration_s": 2.7,
+   "file": "sit_001.npz"
+  },
+  {
+   "id": "sit_002",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    2
+   ],
+   "params": {
+    "height_m": 1.7288286583690518,
+    "breath_hz": 0.30227896450082814,
+    "breath_p2p_mm": 7.146273494721527,
+    "breath_phase": 3.8006791437647984,
+    "duration": 2.6307510710931736,
+    "seat_z": 0.5275589294424678,
+    "back_m": 0.2634778945225593,
+    "lean_peak": 20.779659573092935
+   },
+   "fps": 20.0,
+   "n_frames": 53,
+   "duration_s": 2.6,
+   "file": "sit_002.npz"
+  },
+  {
+   "id": "sit_003",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    3
+   ],
+   "params": {
+    "height_m": 1.7225222259903017,
+    "breath_hz": 0.27627108470371503,
+    "breath_p2p_mm": 3.8924992277268444,
+    "breath_phase": 1.7571371758476009,
+    "duration": 2.298165795035062,
+    "seat_z": 0.49149498730336677,
+    "back_m": 0.1759885960743822,
+    "lean_peak": 21.01303640885865
+   },
+   "fps": 20.0,
+   "n_frames": 46,
+   "duration_s": 2.25,
+   "file": "sit_003.npz"
+  },
+  {
+   "id": "sit_004",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    4
+   ],
+   "params": {
+    "height_m": 1.7999159431987266,
+    "breath_hz": 0.3172147931084811,
+    "breath_p2p_mm": 4.826290339238514,
+    "breath_phase": 4.712565490296873,
+    "duration": 1.748557118485186,
+    "seat_z": 0.43021877613017906,
+    "back_m": 0.2621446790280305,
+    "lean_peak": 22.337555929525166
+   },
+   "fps": 20.0,
+   "n_frames": 35,
+   "duration_s": 1.7,
+   "file": "sit_004.npz"
+  },
+  {
+   "id": "sit_005",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    5
+   ],
+   "params": {
+    "height_m": 1.8775722542904494,
+    "breath_hz": 0.24797207767484997,
+    "breath_p2p_mm": 3.4682444402907726,
+    "breath_phase": 3.4215178174906207,
+    "duration": 1.9990177763577548,
+    "seat_z": 0.5063042675133695,
+    "back_m": 0.27074124054044135,
+    "lean_peak": 21.07821471719436
+   },
+   "fps": 20.0,
+   "n_frames": 40,
+   "duration_s": 1.95,
+   "file": "sit_005.npz"
+  },
+  {
+   "id": "sit_006",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    6
+   ],
+   "params": {
+    "height_m": 1.73495523308964,
+    "breath_hz": 0.21647535720875202,
+    "breath_p2p_mm": 7.496716763970097,
+    "breath_phase": 3.0207543411252753,
+    "duration": 2.447334588660787,
+    "seat_z": 0.4745816915928277,
+    "back_m": 0.21130857437662928,
+    "lean_peak": 32.23750601429046
+   },
+   "fps": 20.0,
+   "n_frames": 49,
+   "duration_s": 2.4,
+   "file": "sit_006.npz"
+  },
+  {
+   "id": "sit_007",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    7
+   ],
+   "params": {
+    "height_m": 1.6924872092743244,
+    "breath_hz": 0.2985794722060985,
+    "breath_p2p_mm": 5.097106975762266,
+    "breath_phase": 0.2994998682372455,
+    "duration": 2.457521250359525,
+    "seat_z": 0.42244033250387936,
+    "back_m": 0.2803994976281037,
+    "lean_peak": 29.773501743905637
+   },
+   "fps": 20.0,
+   "n_frames": 50,
+   "duration_s": 2.45,
+   "file": "sit_007.npz"
+  },
+  {
+   "id": "sit_008",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    8
+   ],
+   "params": {
+    "height_m": 1.6813959379131,
+    "breath_hz": 0.21650233594800986,
+    "breath_p2p_mm": 5.752448568484544,
+    "breath_phase": 5.400057335685549,
+    "duration": 2.8428145659079416,
+    "seat_z": 0.4016005482051557,
+    "back_m": 0.18719477122622938,
+    "lean_peak": 21.820281070235307
+   },
+   "fps": 20.0,
+   "n_frames": 57,
+   "duration_s": 2.8,
+   "file": "sit_008.npz"
+  },
+  {
+   "id": "sit_009",
+   "kind": "sit",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    1,
+    9
+   ],
+   "params": {
+    "height_m": 1.8431402341957628,
+    "breath_hz": 0.20379960695616212,
+    "breath_p2p_mm": 5.3073977246348605,
+    "breath_phase": 2.541595998382385,
+    "duration": 2.7838550380211546,
+    "seat_z": 0.41516832778641444,
+    "back_m": 0.25659814746254817,
+    "lean_peak": 21.9493286797919
+   },
+   "fps": 20.0,
+   "n_frames": 56,
+   "duration_s": 2.75,
+   "file": "sit_009.npz"
+  },
+  {
+   "id": "stand_000",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    0
+   ],
+   "params": {
+    "height_m": 1.6513281351951274,
+    "breath_hz": 0.3237595727699666,
+    "breath_p2p_mm": 3.4652219106815236,
+    "breath_phase": 2.017379485625758,
+    "duration": 3.203496837167813,
+    "seat_z": 0.5365950117308345,
+    "back_m": 0.16652583357005082,
+    "lean_peak": 28.387106084967375
+   },
+   "fps": 20.0,
+   "n_frames": 65,
+   "duration_s": 3.2,
+   "file": "stand_000.npz"
+  },
+  {
+   "id": "stand_001",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    1
+   ],
+   "params": {
+    "height_m": 1.7170396661067306,
+    "breath_hz": 0.27126028806175884,
+    "breath_p2p_mm": 6.657523442660384,
+    "breath_phase": 4.724280400349239,
+    "duration": 2.0460521342024593,
+    "seat_z": 0.4976424885987145,
+    "back_m": 0.15477747545428716,
+    "lean_peak": 16.154226483690692
+   },
+   "fps": 20.0,
+   "n_frames": 41,
+   "duration_s": 2.0,
+   "file": "stand_001.npz"
+  },
+  {
+   "id": "stand_002",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    2
+   ],
+   "params": {
+    "height_m": 1.6946805351941758,
+    "breath_hz": 0.30376670400474814,
+    "breath_p2p_mm": 6.188888364968159,
+    "breath_phase": 3.1118581630276303,
+    "duration": 3.224631257629525,
+    "seat_z": 0.4310540335334499,
+    "back_m": 0.15809860963314715,
+    "lean_peak": 22.27819407901545
+   },
+   "fps": 20.0,
+   "n_frames": 65,
+   "duration_s": 3.2,
+   "file": "stand_002.npz"
+  },
+  {
+   "id": "stand_003",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    3
+   ],
+   "params": {
+    "height_m": 1.5586618322388723,
+    "breath_hz": 0.31058270338855093,
+    "breath_p2p_mm": 5.862775723869023,
+    "breath_phase": 2.9864183066757497,
+    "duration": 2.278707204663362,
+    "seat_z": 0.4486468761513702,
+    "back_m": 0.27559421109957777,
+    "lean_peak": 29.834946732599207
+   },
+   "fps": 20.0,
+   "n_frames": 46,
+   "duration_s": 2.25,
+   "file": "stand_003.npz"
+  },
+  {
+   "id": "stand_004",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    4
+   ],
+   "params": {
+    "height_m": 1.66166827745031,
+    "breath_hz": 0.2817900492790463,
+    "breath_p2p_mm": 5.994737893621433,
+    "breath_phase": 3.324408289981325,
+    "duration": 2.651597055500498,
+    "seat_z": 0.4689008028768881,
+    "back_m": 0.2346369024666178,
+    "lean_peak": 16.45989775788342
+   },
+   "fps": 20.0,
+   "n_frames": 54,
+   "duration_s": 2.65,
+   "file": "stand_004.npz"
+  },
+  {
+   "id": "stand_005",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    5
+   ],
+   "params": {
+    "height_m": 1.8525785124347471,
+    "breath_hz": 0.25839957953381276,
+    "breath_p2p_mm": 6.949389934165445,
+    "breath_phase": 5.711191699381881,
+    "duration": 2.317971558761978,
+    "seat_z": 0.4452617563369241,
+    "back_m": 0.15903867680844302,
+    "lean_peak": 29.51713667542294
+   },
+   "fps": 20.0,
+   "n_frames": 47,
+   "duration_s": 2.3,
+   "file": "stand_005.npz"
+  },
+  {
+   "id": "stand_006",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    6
+   ],
+   "params": {
+    "height_m": 1.8407890306329262,
+    "breath_hz": 0.2408937829605961,
+    "breath_p2p_mm": 4.119753898290655,
+    "breath_phase": 2.608102855805391,
+    "duration": 2.382897237840636,
+    "seat_z": 0.41667338410030247,
+    "back_m": 0.19743953930708033,
+    "lean_peak": 21.298712073157134
+   },
+   "fps": 20.0,
+   "n_frames": 48,
+   "duration_s": 2.35,
+   "file": "stand_006.npz"
+  },
+  {
+   "id": "stand_007",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    7
+   ],
+   "params": {
+    "height_m": 1.844934561598329,
+    "breath_hz": 0.20248849499266552,
+    "breath_p2p_mm": 4.6424845005544055,
+    "breath_phase": 3.46406713274656,
+    "duration": 2.4566793350374936,
+    "seat_z": 0.486333852682886,
+    "back_m": 0.23625655563098474,
+    "lean_peak": 26.32503172994054
+   },
+   "fps": 20.0,
+   "n_frames": 50,
+   "duration_s": 2.45,
+   "file": "stand_007.npz"
+  },
+  {
+   "id": "stand_008",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    8
+   ],
+   "params": {
+    "height_m": 1.8012267218367,
+    "breath_hz": 0.21926324816743628,
+    "breath_p2p_mm": 4.336101851688403,
+    "breath_phase": 5.590676390020686,
+    "duration": 2.6674578113533367,
+    "seat_z": 0.4493030965832721,
+    "back_m": 0.27551832991227243,
+    "lean_peak": 19.341248238616792
+   },
+   "fps": 20.0,
+   "n_frames": 54,
+   "duration_s": 2.65,
+   "file": "stand_008.npz"
+  },
+  {
+   "id": "stand_009",
+   "kind": "stand",
+   "tags": [
+    "transition",
+    "non-periodic",
+    "normal"
+   ],
+   "seed": [
+    42,
+    2,
+    9
+   ],
+   "params": {
+    "height_m": 1.8785446665723455,
+    "breath_hz": 0.3198328944739536,
+    "breath_p2p_mm": 4.922093467836785,
+    "breath_phase": 5.6834872048340985,
+    "duration": 2.1328249025325285,
+    "seat_z": 0.5178495600416089,
+    "back_m": 0.22109273456448642,
+    "lean_peak": 21.656190199167998
+   },
+   "fps": 20.0,
+   "n_frames": 43,
+   "duration_s": 2.1,
+   "file": "stand_009.npz"
+  },
+  {
+   "id": "fall_000",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    0
+   ],
+   "params": {
+    "height_m": 1.6266907192000273,
+    "breath_hz": 0.2723804976989991,
+    "breath_p2p_mm": 7.298548361454605,
+    "breath_phase": 3.7591972757181016,
+    "direction_deg": 217.57926913535036,
+    "duration": 0.7114820600410391,
+    "exponent": 2.1217499033239826,
+    "knee_buckle": 23.68064659624234,
+    "arm_reach": 56.48054677421485,
+    "pre_s": 1.1331883601150445,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 77,
+   "duration_s": 3.8,
+   "file": "fall_000.npz"
+  },
+  {
+   "id": "fall_001",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    1
+   ],
+   "params": {
+    "height_m": 1.7895219858817035,
+    "breath_hz": 0.24925915431341006,
+    "breath_p2p_mm": 3.4436071758778803,
+    "breath_phase": 1.7843301692923017,
+    "direction_deg": 6.390063740135126,
+    "duration": 0.7975443597434587,
+    "exponent": 2.479148656361206,
+    "knee_buckle": 31.344717251251353,
+    "arm_reach": 21.9548262934751,
+    "pre_s": 1.2252287077280126,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 81,
+   "duration_s": 4.0,
+   "file": "fall_001.npz"
+  },
+  {
+   "id": "fall_002",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    2
+   ],
+   "params": {
+    "height_m": 1.7828404197416203,
+    "breath_hz": 0.29206501787789174,
+    "breath_p2p_mm": 5.77412662124323,
+    "breath_phase": 0.1783456580997372,
+    "direction_deg": 8.527102103129533,
+    "duration": 0.5560188250620522,
+    "exponent": 2.052796612279776,
+    "knee_buckle": 18.179336951103355,
+    "arm_reach": 43.56391988277467,
+    "pre_s": 0.8385782479647186,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 68,
+   "duration_s": 3.35,
+   "file": "fall_002.npz"
+  },
+  {
+   "id": "fall_003",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    3
+   ],
+   "params": {
+    "height_m": 1.5637385670753459,
+    "breath_hz": 0.21372606128166804,
+    "breath_p2p_mm": 5.919720675104811,
+    "breath_phase": 4.1627203384729725,
+    "direction_deg": 276.08844584284947,
+    "duration": 0.9556709017388825,
+    "exponent": 1.6072149313391595,
+    "knee_buckle": 44.956407983234186,
+    "arm_reach": 33.17479257568624,
+    "pre_s": 0.6677865635863648,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 73,
+   "duration_s": 3.6,
+   "file": "fall_003.npz"
+  },
+  {
+   "id": "fall_004",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    4
+   ],
+   "params": {
+    "height_m": 1.7397775818348096,
+    "breath_hz": 0.28379160318641644,
+    "breath_p2p_mm": 6.28893405444325,
+    "breath_phase": 2.0934632588135873,
+    "direction_deg": 104.3138414698852,
+    "duration": 0.6634394329189499,
+    "exponent": 2.373439625641547,
+    "knee_buckle": 14.907532457490337,
+    "arm_reach": 47.06571710374152,
+    "pre_s": 1.2739741780555216,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 79,
+   "duration_s": 3.9,
+   "file": "fall_004.npz"
+  },
+  {
+   "id": "fall_005",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    5
+   ],
+   "params": {
+    "height_m": 1.8368232872343595,
+    "breath_hz": 0.2657036382936615,
+    "breath_p2p_mm": 6.01254681953442,
+    "breath_phase": 3.4062555911151478,
+    "direction_deg": 244.63605712783,
+    "duration": 0.8705213734228245,
+    "exponent": 2.1472656306615208,
+    "knee_buckle": 41.70303951705795,
+    "arm_reach": 38.743646352315224,
+    "pre_s": 1.011040719430861,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 78,
+   "duration_s": 3.85,
+   "file": "fall_005.npz"
+  },
+  {
+   "id": "fall_006",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    6
+   ],
+   "params": {
+    "height_m": 1.6157236902719385,
+    "breath_hz": 0.29395496677804595,
+    "breath_p2p_mm": 7.1515048805984485,
+    "breath_phase": 2.9215585563442397,
+    "direction_deg": 261.1332737838289,
+    "duration": 0.9990802353684618,
+    "exponent": 1.6934272208851957,
+    "knee_buckle": 34.392917260765515,
+    "arm_reach": 34.958587505603944,
+    "pre_s": 1.0073231826521067,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 81,
+   "duration_s": 4.0,
+   "file": "fall_006.npz"
+  },
+  {
+   "id": "fall_007",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    7
+   ],
+   "params": {
+    "height_m": 1.5609338480434947,
+    "breath_hz": 0.292970685690347,
+    "breath_p2p_mm": 3.4743746586096353,
+    "breath_phase": 4.545982893386429,
+    "direction_deg": 254.69626428657924,
+    "duration": 0.8851245485643815,
+    "exponent": 1.842507575229778,
+    "knee_buckle": 31.317934030260407,
+    "arm_reach": 0.08752628937100049,
+    "pre_s": 1.2447475155916625,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 83,
+   "duration_s": 4.1,
+   "file": "fall_007.npz"
+  },
+  {
+   "id": "fall_008",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    8
+   ],
+   "params": {
+    "height_m": 1.6394039262167837,
+    "breath_hz": 0.29558960978379134,
+    "breath_p2p_mm": 7.5382965499712515,
+    "breath_phase": 3.6358497010091995,
+    "direction_deg": 264.52200110099403,
+    "duration": 0.9061709893110663,
+    "exponent": 1.591873633078864,
+    "knee_buckle": 47.39114972896897,
+    "arm_reach": 28.477306578896524,
+    "pre_s": 0.5878439722001322,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 70,
+   "duration_s": 3.45,
+   "file": "fall_008.npz"
+  },
+  {
+   "id": "fall_009",
+   "kind": "fall",
+   "tags": [
+    "fall",
+    "event",
+    "non-periodic",
+    "abnormal"
+   ],
+   "seed": [
+    42,
+    3,
+    9
+   ],
+   "params": {
+    "height_m": 1.7180652464429182,
+    "breath_hz": 0.22130772641339358,
+    "breath_p2p_mm": 7.160682623595767,
+    "breath_phase": 6.16130786959217,
+    "direction_deg": 208.06172866847274,
+    "duration": 0.6047330128082666,
+    "exponent": 1.5386184464691333,
+    "knee_buckle": 19.56502542271506,
+    "arm_reach": 56.56472626402559,
+    "pre_s": 0.5376285766645584,
+    "rest_s": 2.0
+   },
+   "fps": 20.0,
+   "n_frames": 63,
+   "duration_s": 3.1,
+   "file": "fall_009.npz"
+  },
+  {
+   "id": "lie_still_000",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    0
+   ],
+   "params": {
+    "height_m": 1.8118514499021594,
+    "breath_hz": 0.23405076007331568,
+    "breath_p2p_mm": 7.934434112853097,
+    "breath_phase": 0.018122805886033332,
+    "duration": 3.0842898264295924
+   },
+   "fps": 20.0,
+   "n_frames": 62,
+   "duration_s": 3.05,
+   "file": "lie_still_000.npz"
+  },
+  {
+   "id": "lie_still_001",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    1
+   ],
+   "params": {
+    "height_m": 1.8450464474915755,
+    "breath_hz": 0.3172424467687863,
+    "breath_p2p_mm": 5.884794379450611,
+    "breath_phase": 5.295313376211115,
+    "duration": 5.640056992001652
+   },
+   "fps": 20.0,
+   "n_frames": 113,
+   "duration_s": 5.6,
+   "file": "lie_still_001.npz"
+  },
+  {
+   "id": "lie_still_002",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    2
+   ],
+   "params": {
+    "height_m": 1.707578809432828,
+    "breath_hz": 0.31732787537142393,
+    "breath_p2p_mm": 6.372337598556534,
+    "breath_phase": 0.5896078993585846,
+    "duration": 3.3912823697532732
+   },
+   "fps": 20.0,
+   "n_frames": 68,
+   "duration_s": 3.35,
+   "file": "lie_still_002.npz"
+  },
+  {
+   "id": "lie_still_003",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    3
+   ],
+   "params": {
+    "height_m": 1.7610673695147567,
+    "breath_hz": 0.2149043029934065,
+    "breath_p2p_mm": 3.2397802819086667,
+    "breath_phase": 1.5778449464516318,
+    "duration": 3.8277650175968576
+   },
+   "fps": 20.0,
+   "n_frames": 77,
+   "duration_s": 3.8,
+   "file": "lie_still_003.npz"
+  },
+  {
+   "id": "lie_still_004",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    4
+   ],
+   "params": {
+    "height_m": 1.6540344977317831,
+    "breath_hz": 0.25973420518524987,
+    "breath_p2p_mm": 3.283274163833631,
+    "breath_phase": 2.5026151224813487,
+    "duration": 4.481422000790032
+   },
+   "fps": 20.0,
+   "n_frames": 90,
+   "duration_s": 4.45,
+   "file": "lie_still_004.npz"
+  },
+  {
+   "id": "lie_still_005",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    5
+   ],
+   "params": {
+    "height_m": 1.631654490377136,
+    "breath_hz": 0.22089814385963694,
+    "breath_p2p_mm": 7.271015821108113,
+    "breath_phase": 0.8419141365830236,
+    "duration": 5.070294993477569
+   },
+   "fps": 20.0,
+   "n_frames": 102,
+   "duration_s": 5.05,
+   "file": "lie_still_005.npz"
+  },
+  {
+   "id": "lie_still_006",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    6
+   ],
+   "params": {
+    "height_m": 1.7844951274765497,
+    "breath_hz": 0.2016256927432232,
+    "breath_p2p_mm": 5.043039943464669,
+    "breath_phase": 5.626255950228669,
+    "duration": 4.087177977328487
+   },
+   "fps": 20.0,
+   "n_frames": 82,
+   "duration_s": 4.05,
+   "file": "lie_still_006.npz"
+  },
+  {
+   "id": "lie_still_007",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    7
+   ],
+   "params": {
+    "height_m": 1.8137620996958508,
+    "breath_hz": 0.3077097676841167,
+    "breath_p2p_mm": 7.610283024604881,
+    "breath_phase": 4.963305613225193,
+    "duration": 4.596428487417526
+   },
+   "fps": 20.0,
+   "n_frames": 92,
+   "duration_s": 4.55,
+   "file": "lie_still_007.npz"
+  },
+  {
+   "id": "lie_still_008",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    8
+   ],
+   "params": {
+    "height_m": 1.8588716374914063,
+    "breath_hz": 0.2988301393848511,
+    "breath_p2p_mm": 4.962879682299041,
+    "breath_phase": 0.03313613056241773,
+    "duration": 3.204082970388148
+   },
+   "fps": 20.0,
+   "n_frames": 65,
+   "duration_s": 3.2,
+   "file": "lie_still_008.npz"
+  },
+  {
+   "id": "lie_still_009",
+   "kind": "lie_still",
+   "tags": [
+    "static",
+    "lying",
+    "abnormal-if-unexpected"
+   ],
+   "seed": [
+    42,
+    4,
+    9
+   ],
+   "params": {
+    "height_m": 1.7263818266001434,
+    "breath_hz": 0.31036460446070135,
+    "breath_p2p_mm": 7.76820904958555,
+    "breath_phase": 1.6298441608709755,
+    "duration": 3.002845983211181
+   },
+   "fps": 20.0,
+   "n_frames": 61,
+   "duration_s": 3.0,
+   "file": "lie_still_009.npz"
+  },
+  {
+   "id": "breathe_000",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    0
+   ],
+   "params": {
+    "height_m": 1.6111402485732347,
+    "breath_hz": 0.327219366742673,
+    "breath_p2p_mm": 3.2850207962408344,
+    "breath_phase": 1.0750161416266615,
+    "duration": 5.199081897832372
+   },
+   "fps": 20.0,
+   "n_frames": 104,
+   "duration_s": 5.15,
+   "file": "breathe_000.npz"
+  },
+  {
+   "id": "breathe_001",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    1
+   ],
+   "params": {
+    "height_m": 1.6698259181280917,
+    "breath_hz": 0.20283752016345147,
+    "breath_p2p_mm": 5.171276370505294,
+    "breath_phase": 2.6374820824630234,
+    "duration": 4.468079872008047
+   },
+   "fps": 20.0,
+   "n_frames": 90,
+   "duration_s": 4.45,
+   "file": "breathe_001.npz"
+  },
+  {
+   "id": "breathe_002",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    2
+   ],
+   "params": {
+    "height_m": 1.721502982085038,
+    "breath_hz": 0.3123640389365486,
+    "breath_p2p_mm": 3.690406093431023,
+    "breath_phase": 2.338302391316574,
+    "duration": 3.968564196327883
+   },
+   "fps": 20.0,
+   "n_frames": 80,
+   "duration_s": 3.95,
+   "file": "breathe_002.npz"
+  },
+  {
+   "id": "breathe_003",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    3
+   ],
+   "params": {
+    "height_m": 1.6077587406404679,
+    "breath_hz": 0.32954296918581294,
+    "breath_p2p_mm": 5.831908116411972,
+    "breath_phase": 5.878245177685345,
+    "duration": 4.644620461488756
+   },
+   "fps": 20.0,
+   "n_frames": 93,
+   "duration_s": 4.6,
+   "file": "breathe_003.npz"
+  },
+  {
+   "id": "breathe_004",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    4
+   ],
+   "params": {
+    "height_m": 1.576363713636733,
+    "breath_hz": 0.2449256215283444,
+    "breath_p2p_mm": 7.356886998115686,
+    "breath_phase": 0.033877692970542946,
+    "duration": 4.8522688872524045
+   },
+   "fps": 20.0,
+   "n_frames": 98,
+   "duration_s": 4.85,
+   "file": "breathe_004.npz"
+  },
+  {
+   "id": "breathe_005",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    5
+   ],
+   "params": {
+    "height_m": 1.652241784468745,
+    "breath_hz": 0.247167801567161,
+    "breath_p2p_mm": 7.93848779045464,
+    "breath_phase": 0.4341303073248631,
+    "duration": 3.0356230489248164
+   },
+   "fps": 20.0,
+   "n_frames": 61,
+   "duration_s": 3.0,
+   "file": "breathe_005.npz"
+  },
+  {
+   "id": "breathe_006",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    6
+   ],
+   "params": {
+    "height_m": 1.5558362171928626,
+    "breath_hz": 0.20440797163647,
+    "breath_p2p_mm": 6.837981284996315,
+    "breath_phase": 4.911746159064715,
+    "duration": 3.0947399213388307
+   },
+   "fps": 20.0,
+   "n_frames": 62,
+   "duration_s": 3.05,
+   "file": "breathe_006.npz"
+  },
+  {
+   "id": "breathe_007",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    7
+   ],
+   "params": {
+    "height_m": 1.7126930227104622,
+    "breath_hz": 0.30403179249355394,
+    "breath_p2p_mm": 5.344499198138851,
+    "breath_phase": 4.562914212671984,
+    "duration": 5.118126927951784
+   },
+   "fps": 20.0,
+   "n_frames": 103,
+   "duration_s": 5.1,
+   "file": "breathe_007.npz"
+  },
+  {
+   "id": "breathe_008",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    8
+   ],
+   "params": {
+    "height_m": 1.8752481520545494,
+    "breath_hz": 0.29236060311149076,
+    "breath_p2p_mm": 5.8299245335359355,
+    "breath_phase": 4.131100664245697,
+    "duration": 4.757124177033723
+   },
+   "fps": 20.0,
+   "n_frames": 96,
+   "duration_s": 4.75,
+   "file": "breathe_008.npz"
+  },
+  {
+   "id": "breathe_009",
+   "kind": "breathe",
+   "tags": [
+    "static",
+    "standing",
+    "normal"
+   ],
+   "seed": [
+    42,
+    5,
+    9
+   ],
+   "params": {
+    "height_m": 1.8983836731215145,
+    "breath_hz": 0.22716558888972857,
+    "breath_p2p_mm": 6.399774724546083,
+    "breath_phase": 2.6287633142015645,
+    "duration": 5.764168448227755
+   },
+   "fps": 20.0,
+   "n_frames": 116,
+   "duration_s": 5.75,
+   "file": "breathe_009.npz"
+  }
+ ]
+}
